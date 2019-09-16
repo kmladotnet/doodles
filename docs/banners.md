@@ -18,7 +18,7 @@
 
 ### Aug 28, 2017
 ![큼온기능설문.png](../banners/큼온기능설문.png)
-![LID지원서.png](../banners/LID지원서.png)
+![LID지원서.png](../banners/LID지원.png)
 
 ### Sep 18, 2017
 ![외출외박신청서.png](../banners/외출외박신청서.png)
