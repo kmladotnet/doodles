@@ -8,4 +8,4 @@ KMLA Online의 첫인상을 결정하는 KMLA Doodles 저장소입니다.
 
 ## 현재 배너
 
-![](currentbanner.png)
+![Current KMLA Online Banner](current-banner.png)
