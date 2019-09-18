@@ -39,5 +39,8 @@
 ### Aug 17, 2019
 ![닷넷지원2019.png](../banners/닷넷지원2019.png)
 
+### Sep 17, 2019
+![](../banners/투표하세요.png)
+
 ### Sep 18, 2019
 ![투표하세요.png](../current-banner.png)
