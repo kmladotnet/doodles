@@ -1,6 +1,27 @@
-[![](https://img.shields.io/badge/KMLA_Online-Doodles-black?longCache=true&style=for-the-badge)](../README.md)
-[![](https://img.shields.io/badge/KMLA_Online-Logos-red?longCache=true&style=for-the-badge)](../docs/logos.md)
-[![](https://img.shields.io/badge/KMLA_Online-Banners-blue?longCache=true&style=for-the-badge)](../docs/banners.md)
-[![](https://img.shields.io/badge/KMLA_Online-Components-green?longCache=true&style=for-the-badge)](../docs/components.md)
+---
+layout: post
+title: Logos
+permalink: /logos/
+---
 
-# 준비 중입니다.
+### `logo2.png`
+
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/logos/logo2.png)
+
+----
+
+### `logo2-purple.png`
+
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/logos/logo2-purple.png)
+
+----
+
+### `logo2-white.png`
+
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/logos/logo2-white.png)
+
+----
+
+### `logo.png`
+
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/logos/logo.png)

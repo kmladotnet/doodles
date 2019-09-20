@@ -1,17 +1,18 @@
-[![](https://img.shields.io/badge/KMLA_Online-Doodles-black?longCache=true&style=for-the-badge)](../README.md)
-[![](https://img.shields.io/badge/KMLA_Online-Logos-red?longCache=true&style=for-the-badge)](../docs/logos.md)
-[![](https://img.shields.io/badge/KMLA_Online-Banners-blue?longCache=true&style=for-the-badge)](../docs/banners.md)
-[![](https://img.shields.io/badge/KMLA_Online-Components-green?longCache=true&style=for-the-badge)](../docs/components.md)
+---
+layout: post
+title: Banners
+permalink: /banners/
+---
 
-# KMLA Online Banners
+If you find something wrong, please let us know.
 
-If you find something is wrong, please let us know.
+## 2016 or earlier
 
-# 2016 or earlier
+----
 
 ## `kmlaonline-old.png`
 
-![kmlaonline-old.png](../banners/kmlaonline-old.png)
+![kmlaonline-old.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/kmlaonline-old.png)
 
 The origin of this photo is unknown. The first date we can confirm is Jan 26 2016 when our 19th wave alumni **Dongmin Lee** restored this file.
 
@@ -26,11 +27,13 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 |File dimension|722 × 160|
 |Used tool|Unknown|
 |Font|Unknown|
-|Download file|[Download](../banners/kmlaonline-old.png)|
-|Download source file|[Download](../banners/psd/kmlaonline-old.psd)|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/kmlaonline-old.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/kmlaonline-old.psd)|
 
-## `dasan.png`
-![dasan.png](../banners/dasan.png)
+----
+
+##  `dasan.png`
+![dasan.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/dasan.png)
 
 The origin of this photo is unknown. The first date we can confirm is Jan 26 2016 when our 19th wave alumni **Dongmin Lee** restored this file.
 
@@ -45,11 +48,13 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 |File dimension|722 × 160|
 |Used tool|Unknown|
 |Font|N/A|
-|Download file|[Download](../banners/dasan.png)|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/dasan.png)|
 |Download source file|N/A|
 
+----
+
 ## `happy-new-year-2016.png`
-![happy-new-year-2016.png](../banners/happy-new-year-2016.png)
+![happy-new-year-2016.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/happy-new-year-2016.png)
 
 |Info|What is it?|
 |----|----|
@@ -62,42 +67,42 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 |File dimension|1100 × 160|
 |Used tool|Unknown|
 |Font|N/A|
-|Download file|[Download](../banners/happy-new-year-2016.png)|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/happy-new-year-2016.png)|
 |Download source file|N/A|
 
 ## 2017년
 
 ### Mar 31, 2017
-![bamboozle.png](../banners/bamboozle.png)
+![bamboozle.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/bamboozle.png)
 
 ### Aug 28, 2017
-![kmlaonline-feature.png](../banners/kmlaonline-feature.png)
-![apply-lid.png](../banners/apply-lid.png)
+![kmlaonline-feature.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/kmlaonline-feature.png)
+![apply-lid.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/apply-lid.png)
 
 ### Sep 18, 2017
-![still-print.png](../banners/still-print.png)
+![still-print.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/still-print.png)
 
 ### Sep 28, 2017
-![chuseok-2017.png](../banners/chuseok-2017.png)
+![chuseok-2017.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/chuseok-2017.png)
 
 ### Oct 13, 2017
-![relax.png](../banners/relax.png)
+![relax.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/relax.png)
 
 ## 2018년
 
 ### Jan 28, 2018
-![happy-new-year-2018.gif](../banners/happy-new-year-2018.gif)
+![happy-new-year-2018.gif](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/happy-new-year-2018.gif)
 
 ## 2019년
 
 ### Aug 17, 2019
-![dotnet-2019.png](../banners/dotnet-2019.png)
+![dotnet-2019.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/dotnet-2019.png)
 
 ### Sep 17, 2019
-![](../banners/vote.png)
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/vote.png)
 
 ### Sep 18, 2019
-![](../banners/council-27-good-job.png)
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/council-27-good-job.png)
 
 ### Sep 19, 2019
-![](../current-banner.png)
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/current-banner.png)
