@@ -16,7 +16,7 @@ If you find something wrong, please let us know.
 
 The origin of this photo is unknown. The first date we can confirm is Jan 26 2016 when our 19th wave alumni **Dongmin Lee** restored this file.
 
-|Info|What is it?|
+|Info|Data|
 |----|----|
 |File name|`kmlaonline-old.png`|
 |Legacy name|`logo.psd`|
@@ -37,7 +37,7 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 
 The origin of this photo is unknown. The first date we can confirm is Jan 26 2016 when our 19th wave alumni **Dongmin Lee** restored this file.
 
-|Info|What is it?|
+|Info|Data|
 |----|----|
 |File name|`dasan.png`|
 |Legacy name|`big-logo.png`|
@@ -56,7 +56,7 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 ## `happy-new-year-2016.png`
 ![happy-new-year-2016.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/happy-new-year-2016.png)
 
-|Info|What is it?|
+|Info|Data|
 |----|----|
 |File name|`happy-new-year-2016.png`|
 |Legacy name|`big-logo.설말.backup.png` (`dasan-extend.설날.backup.jpg` at creation)|
@@ -98,11 +98,82 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 ### Aug 17, 2019
 ![dotnet-2019.png](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/dotnet-2019.png)
 
+|Info|Data|
+|----|----|
+|File name|`dotnet-2019.png`|
+|Illustrator|Hajin Kim|
+|Creator|Sunghyun Cho|
+|Created date|20190817|
+|Duration|20190817 ~ 20190917|
+|File extension|Portable Network Graphics `png`|
+|File dimension|1024 × 268|
+|Used tool|Adobe Photoshop, Procreate|
+|Font|210 블라블라|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/dotnet-2019.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/dotnet-2019.psd)|
+
 ### Sep 17, 2019
 ![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/vote.png)
+
+|Info|Data|
+|----|----|
+|File name|`vote.png`|
+|Creator|Sunghyun Cho|
+|Created date|20190917|
+|Duration|20190917 ~ 20190918|
+|File extension|Portable Network Graphics `png`|
+|File dimension|3600 × 1200|
+|Used tool|Adobe Photoshop|
+|Font|산돌 프레스|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/vote.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/vote.psd)|
 
 ### Sep 18, 2019
 ![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/council-27-good-job.png)
 
+|Info|Data|
+|----|----|
+|File name|`council-27-good-job.png`|
+|Creator|Sunghyun Cho|
+|Created date|20190918|
+|Duration|20190918 ~ 20190919|
+|File extension|Portable Network Graphics `png`|
+|File dimension|`psd` 4800 × 1200 `png` 2400 × 600|
+|Used tool|Adobe Photoshop|
+|Font|옴니고딕, Apple Color Emoji|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/council-27-good-job.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/council-27-good-job.psd)|
+
 ### Sep 19, 2019
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/council-27-press-cemc-good-job.png)
+
+|Info|Data|
+|----|----|
+|File name|`council-27-press-cemc-good-job.png`|
+|Creator|Sunghyun Cho|
+|Created date|20190918|
+|Duration|20190919 ~ 20190923|
+|File extension|Portable Network Graphics `png`|
+|File dimension|`psd` 4800 × 1200 `png` 2400 × 600|
+|Used tool|Adobe Photoshop|
+|Font|옴니고딕, Apple Color Emoji|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/council-27-press-cemc-good-job.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/council-27-press-cemc-good-job.psd)|
+
+### Sep 23, 2019
 ![](https://raw.githubusercontent.com/kmladotnet/doodles/master/current-banner.png)
+
+|Info|Data|
+|----|----|
+|File name|`autumn-and-tests.png`|
+|Illustrator|Hajin Kim|
+|Creator|Sunghyun Cho|
+|Created date|20190923|
+|Duration|20190923 ~ |
+|File extension|Portable Network Graphics `png`|
+|File dimension|`psd` 4800 × 1200 `png` 2400 × 600|
+|Used tool|Adobe Photoshop, Procreate|
+|Font|210 백두산|
+|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/current-banner.png)|
+|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/autumn-and-tests.psd)|
+
