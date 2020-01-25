@@ -161,19 +161,12 @@ The origin of this photo is unknown. The first date we can confirm is Jan 26 201
 |Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/council-27-press-cemc-good-job.psd)|
 
 ### Sep 23, 2019
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/autumn-and-tests.png)
+
+### Oct 4, 2019
+
+![](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/check-penalty-of-council.png)
+
+### Jan 25, 2019
+
 ![](https://raw.githubusercontent.com/kmladotnet/doodles/master/current-banner.png)
-
-|Info|Data|
-|----|----|
-|File name|`autumn-and-tests.png`|
-|Illustrator|Hajin Kim|
-|Creator|Sunghyun Cho|
-|Created date|20190923|
-|Duration|20190923 ~ |
-|File extension|Portable Network Graphics `png`|
-|File dimension|`psd` 4800 × 1200 `png` 2400 × 600|
-|Used tool|Adobe Photoshop, Procreate|
-|Font|210 백두산|
-|Download file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/current-banner.png)|
-|Download source file|[Download](https://raw.githubusercontent.com/kmladotnet/doodles/master/banners/psd/autumn-and-tests.psd)|
-
